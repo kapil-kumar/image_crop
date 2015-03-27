@@ -1,0 +1,123 @@
+1427434492
+AddImageToBlog	/home/kapilkurmam/projects/Image_cropping_in_rails4/db/migrate/20140605232522_add_image_to_blog.rb	class AddImageToBlog 
+Application	/home/kapilkurmam/projects/Image_cropping_in_rails4/config/application.rb	  class Application 
+ApplicationController	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/helpers/application_helper.rb	module ApplicationHelper
+Blog	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/models/blog.rb	class Blog 
+BlogTest	/home/kapilkurmam/projects/Image_cropping_in_rails4/test/models/blog_test.rb	class BlogTest 
+BlogsController	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	class BlogsController 
+BlogsControllerTest	/home/kapilkurmam/projects/Image_cropping_in_rails4/test/controllers/blogs_controller_test.rb	class BlogsControllerTest 
+BlogsHelper	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/helpers/blogs_helper.rb	module BlogsHelper
+BlogsHelperTest	/home/kapilkurmam/projects/Image_cropping_in_rails4/test/helpers/blogs_helper_test.rb	class BlogsHelperTest 
+CreateBlogs	/home/kapilkurmam/projects/Image_cropping_in_rails4/db/migrate/20140605232507_create_blogs.rb	class CreateBlogs 
+Cropper	/home/kapilkurmam/projects/Image_cropping_in_rails4/lib/paperclip_processors/cropper.rb	  class Cropper 
+ImageCrop	/home/kapilkurmam/projects/Image_cropping_in_rails4/config/application.rb	module ImageCrop
+Paperclip	/home/kapilkurmam/projects/Image_cropping_in_rails4/lib/paperclip_processors/cropper.rb	module Paperclip
+TestCase	/home/kapilkurmam/projects/Image_cropping_in_rails4/test/test_helper.rb	class ActiveSupport::TestCase
+activateHandlers	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function activateHandlers(move, done, touch)
+animMode	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function animMode(v)
+animateTo	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function animateTo(a, callback)
+avatar_geometry	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/models/blog.rb	  def avatar_geometry(style = :original)
+blog_params	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	    def blog_params
+cancelCrop	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function cancelCrop()
+change	/home/kapilkurmam/projects/Image_cropping_in_rails4/db/migrate/20140605232522_add_image_to_blog.rb	  def change
+change	/home/kapilkurmam/projects/Image_cropping_in_rails4/db/migrate/20140605232507_create_blogs.rb	  def change
+colorChangeMacro	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function colorChangeMacro($obj,color,now)
+completeCheck	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function completeCheck()
+create	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	  def create
+createBorders	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function createBorders(li)
+createDragbars	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function createDragbars(li)
+createDragger	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function createDragger(ord)
+createHandles	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function createHandles(li)
+createMover	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function createMover(pos)
+createShade	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function createShade()
+crop_command	/home/kapilkurmam/projects/Image_cropping_in_rails4/lib/paperclip_processors/cropper.rb	    def crop_command
+crop_h	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/models/blog.rb	  attr_accessor :crop_x, :crop_y, :crop_w, :crop_h
+crop_w	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/models/blog.rb	  attr_accessor :crop_x, :crop_y, :crop_w, :crop_h
+crop_x	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/models/blog.rb	  attr_accessor :crop_x, :crop_y, :crop_w, :crop_h
+crop_y	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/models/blog.rb	  attr_accessor :crop_x, :crop_y, :crop_w, :crop_h
+cropping?	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/models/blog.rb	  def cropping?
+cssClass	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function cssClass(cl)
+destroy	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	  def destroy
+destroy	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function destroy()
+detectSupport	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function detectSupport()
+disableCrop	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function disableCrop()
+disableHandles	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function disableHandles()
+disableShade	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function disableShade()
+doNudge	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function doNudge(e, x, y)
+done	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function done()
+doneSelect	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function doneSelect(pos)
+dragDiv	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function dragDiv(ord, zi)
+dragmodeHandler	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function dragmodeHandler(mode, f)
+edit	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	  def edit
+enableCrop	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function enableCrop()
+enableHandles	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function enableHandles()
+enableShade	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function enableShade()
+flipCoords	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function flipCoords(x1, y1, x2, y2)
+getCorner	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function getCorner(ord)
+getFixed	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function getFixed()
+getOffset	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function getOffset()
+getPos	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function getPos(obj)
+getRect	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function getRect()
+getShades	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function getShades()
+hasTouchSupport	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function hasTouchSupport()
+index	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	  def index
+insertBorder	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function insertBorder(type)
+insertDragbar	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function insertDragbar(ord)
+insertHandle	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function insertHandle(ord)
+interfaceUpdate	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function interfaceUpdate(alt)
+makeObj	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function makeObj(a)
+mouseAbs	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function mouseAbs(e)
+moveOffset	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function moveOffset(offset)
+moveto	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function moveto(x, y)
+new	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	  def new
+newSelection	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function newSelection(e)
+newTracker	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function newTracker()
+onBlur	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function onBlur(e)
+oppLockCorner	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function oppLockCorner(ord)
+parseKey	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function parseKey(e)
+presize	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function presize($obj, w, h)
+px	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function px(n)
+queueAnimator	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function queueAnimator()
+rebound	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function rebound(p)
+refresh	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function refresh()
+refreshAll	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function refreshAll()
+release	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function release()
+reprocess_avatar	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/models/blog.rb	  def reprocess_avatar
+resize	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function resize(w, h)
+resizeShades	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function resizeShades(w,h)
+selectDrag	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function selectDrag(pos)
+setBgColor	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setBgColor(color,now)
+setBgOpacity	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setBgOpacity(opacity,force,now)
+setClass	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setClass(cname)
+setCurrent	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setCurrent(pos)
+setCursor	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setCursor(t)
+setImage	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setImage(src, callback)
+setOpacity	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setOpacity(opacity,now)
+setOptions	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setOptions(opt)
+setOptionsNew	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setOptionsNew(opt)
+setPressed	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setPressed(pos)
+setSelect	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setSelect(rect)
+setSelectRaw	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function setSelectRaw(l)
+set_blog	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	    def set_blog
+show	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	  def show
+show	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function show()
+showHandles	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function showHandles()
+startDragMode	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function startDragMode(mode, pos, touch)
+supportsColorFade	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function supportsColorFade()
+tellScaled	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function tellScaled()
+tellSelect	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function tellSelect()
+toBack	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function toBack()
+toFront	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function toFront(touch)
+trackMove	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function trackMove(e)
+trackTouchEnd	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function trackTouchEnd(e)
+trackTouchMove	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function trackTouchMove(e)
+trackUp	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function trackUp(e)
+transformation_command	/home/kapilkurmam/projects/Image_cropping_in_rails4/lib/paperclip_processors/cropper.rb	    def transformation_command
+unscale	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function unscale(c)
+update	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/controllers/blogs_controller.rb	  def update
+update	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function update(select)
+updateAuto	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function updateAuto()
+updateShade	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function updateShade(c)
+updateVisible	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function updateVisible(select)
+watchKeys	/home/kapilkurmam/projects/Image_cropping_in_rails4/app/assets/javascripts/jquery.Jcrop.js	function watchKeys()
